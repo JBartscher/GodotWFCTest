@@ -1,0 +1,140 @@
+[gd_scene load_steps=7 format=3 uid="uid://7fdoojs8twlx"]
+
+[ext_resource type="Script" path="res://WFCTilesetAnalizer.cs" id="1_ycvfr"]
+[ext_resource type="TileSet" uid="uid://cibfsowmlnvuc" path="res://tileset.tres" id="2_cgs6b"]
+[ext_resource type="PackedScene" uid="uid://b870hxfdx6s3j" path="res://map_1.tscn" id="2_ks6hr"]
+[ext_resource type="PackedScene" uid="uid://qu6fcs6aefiq" path="res://map_4.tscn" id="3_o26co"]
+[ext_resource type="PackedScene" uid="uid://dapwwto11sc3w" path="res://map_2.tscn" id="3_uvw2w"]
+[ext_resource type="PackedScene" uid="uid://bmonjg2rt8xcn" path="res://map_3.tscn" id="4_l3o68"]
+
+[node name="WFCTilesetAnalizer" type="Node2D"]
+script = ExtResource("1_ycvfr")
+_tileSet = ExtResource("2_cgs6b")
+
+[node name="TileMap" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap2" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap3" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap4" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap5" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap6" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap7" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap8" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap9" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap10" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap11" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap12" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap13" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap14" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap15" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap16" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap17" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap18" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap19" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap20" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap21" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap22" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap23" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap24" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap25" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap26" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap27" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap28" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap29" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap30" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap31" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap32" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap33" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap34" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap43" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap35" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap36" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap37" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap38" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap39" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap40" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap41" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap42" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap44" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap45" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap46" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap47" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap48" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap49" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap50" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap51" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap60" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap52" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap53" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap56" parent="." instance=ExtResource("3_o26co")]
+
+[node name="TileMap57" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap58" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap59" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap61" parent="." instance=ExtResource("2_ks6hr")]
+
+[node name="TileMap62" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap55" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap63" parent="." instance=ExtResource("4_l3o68")]
+
+[node name="TileMap54" parent="." instance=ExtResource("3_uvw2w")]
+
+[node name="TileMap64" parent="." instance=ExtResource("3_o26co")]

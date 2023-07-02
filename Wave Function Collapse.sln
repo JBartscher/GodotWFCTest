@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wave Function Collapse", "Wave Function Collapse.csproj", "{C67D8BE2-C457-463C-9C9C-9925F2B03B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67D8BE2-C457-463C-9C9C-9925F2B03B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67D8BE2-C457-463C-9C9C-9925F2B03B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67D8BE2-C457-463C-9C9C-9925F2B03B0E}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{C67D8BE2-C457-463C-9C9C-9925F2B03B0E}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{C67D8BE2-C457-463C-9C9C-9925F2B03B0E}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{C67D8BE2-C457-463C-9C9C-9925F2B03B0E}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
